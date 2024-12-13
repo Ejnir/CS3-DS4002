@@ -6,6 +6,8 @@ This repository contains the study, deliverable, data, and reference materials n
 ## Documents
 The hook document outlining the description and deliverables of the case study can be found in the CS3 Prompt and Deliverable.pdf file. The rubric is found in the CS3 Rubric.pdf file. 
 
-## Scripts
-All data and scripts needed for this case study is found under the Scripts/ folder in this repository.
+## Materials
+All data and scripts needed for this case study is found under the Data/ and Scripts/ folders in this repository.
+
+Both the referenced article and blog can be found under the Materials/ folder.
 
